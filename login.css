@@ -1,0 +1,30 @@
+#Login {
+    margin-left: 30%;
+    border: 5px outset;
+    padding: 5%;
+    margin: 40% left;
+}
+
+#Login {
+    background-color: rgb(212, 172, 212);
+}
+
+#label {
+    font-size: 15px;
+}
+
+#login1 {
+    margin-left: 50%;
+    border: 5px outset;
+    padding: 15%;
+    margin: 40% left;
+}
+
+#Login1 {
+    background-color: rgb(212, 172, 212);
+}
+
+sun {
+    bottom: unset;
+    color: tomato;
+}
